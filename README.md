@@ -39,10 +39,9 @@ My goal isn’t to “rebuild Google”, but to create tools that are:
 ---
 
 ## 🛠️ Technologies I work with
-- **Rust**, **Node.js**, **Docker**, **Caddy**  
+- **Rust**, **Node.js**, **Nuxt**, **Docker**, **Caddy**  
 - **PostgreSQL**, secure authentication flows  
 - **Linux infrastructure**, self-hosting, monitoring  
-- Occasionally… **COBOL** (yes, on purpose 😄)
 
 ---
 
