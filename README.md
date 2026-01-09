@@ -6,7 +6,7 @@ L'idée est simple : les outils modernes ne devraient pas vous forcer à sacrifi
 
 ---
 
-## 🔥 Projet principal : [**Gauzian**]([url](https://github.com/visualAngus/gauzian))
+## 🔥 Projet principal : [**Gauzian**](https://github.com/visualAngus/gauzian)
 Gauzian est un écosystème tout-en-un axé sur la productivité et la collaboration, construit avec :
 
 - **Backend Rust** (rapide, propre, fiable)
