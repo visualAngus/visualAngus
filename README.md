@@ -1,60 +1,60 @@
-# 👋 Hi, I’m Gaël  
-*18-year-old developer passionate about backend systems, infrastructure, and digital sovereignty.*
+# 👋 Salut, moi c'est Gaël
+*Développeur de 18 ans passionné par le backend, l'infrastructure et la souveraineté numérique.*
 
-I’m currently building **Gauzian**, a full web platform designed to be **self-hostable**, **secure**, and **sovereign by design**.  
-The idea is simple: modern tools shouldn’t force you to sacrifice privacy or rely on opaque cloud giants.
-
----
-
-## 🔥 Main Project: **Gauzian**
-Gauzian is an all-in-one ecosystem focused on productivity and collaboration, built with:
-
-- **Rust backend** (fast, clean, reliable)
-- **Caddy reverse proxy**
-- **Docker Compose infrastructure** for simple, reproducible deployments
-- **Secure authentication**, versioned notes, smart calendar, collaborative tools
-
-**Long-term vision:**  
-Provide mail hosting (SMTP/IMAP), file storage, collaborative editing, and more — all without sending user data to third parties.
-
-> Gauzian is my way of proving that  
-> **digital sovereignty isn’t a slogan — it’s something you build, line by line.**
+Je construis actuellement **Gauzian**, une plateforme web complète conçue pour être **auto-hébergeable**, **sécurisée** et **souveraine dès la conception**.
+L'idée est simple : les outils modernes ne devraient pas vous forcer à sacrifier votre vie privée ou à dépendre de géants du cloud opaques.
 
 ---
 
-## 🛡️ Why digital sovereignty?
-Because no one should have to choose between:
+## 🔥 Projet principal : **Gauzian**
+Gauzian est un écosystème tout-en-un axé sur la productivité et la collaboration, construit avec :
 
-- functionality and freedom,  
-- convenience and privacy,  
-- innovation and dependency.
+- **Backend Rust** (rapide, propre, fiable)
+- **Reverse proxy Caddy**
+- **Infrastructure Docker Compose** pour des déploiements simples et reproductibles
+- **Authentification sécurisée**, notes versionnées, calendrier intelligent, outils collaboratifs
 
-My goal isn’t to “rebuild Google”, but to create tools that are:
+**Vision à long terme :**
+Fournir un hébergement mail (SMTP/IMAP), du stockage de fichiers, de l'édition collaborative et plus encore — le tout sans envoyer les données utilisateur à des tiers.
 
-- transparent,  
-- self-hostable,  
-- privacy-respecting,  
-- and owned **by the user**, not the platform.
-
----
-
-## 🛠️ Technologies I work with
-- **Rust**, **Node.js**, **Nuxt**, **Docker**, **Caddy**  
-- **PostgreSQL**, secure authentication flows  
-- **Linux infrastructure**, self-hosting, monitoring  
+> Gauzian est ma façon de prouver que
+> **la souveraineté numérique n'est pas un slogan — c'est quelque chose que l'on construit, ligne par ligne.**
 
 ---
 
-## 🎯 What I’m looking for
-Projects that bring **real skills**, **real value**, or a **real technical challenge**.  
-Special interests include:
+## 🛡️ Pourquoi la souveraineté numérique ?
+Parce que personne ne devrait avoir à choisir entre :
 
-- digital sovereignty & self-hosting  
-- lightweight but robust infrastructure  
-- data security  
-- distributed systems (LoRa, ESP32…)  
-- local AI (offline inference)
+- fonctionnalité et liberté,
+- confort et vie privée,
+- innovation et dépendance.
+
+Mon but n'est pas de « reconstruire Google », mais de créer des outils qui sont :
+
+- transparents,
+- auto-hébergeables,
+- respectueux de la vie privée,
+- et détenus **par l'utilisateur**, pas par la plateforme.
 
 ---
 
-If you want to follow Gauzian’s progress, contribute, or just talk tech, feel free to reach out 🚀
+## 🛠️ Ma stack technique
+- **Rust**, **Node.js**, **Nuxt**, **Docker**, **Caddy**
+- **PostgreSQL**, flux d'authentification sécurisés
+- **Infrastructure Linux**, auto-hébergement, monitoring
+
+---
+
+## 🎯 Ce que je recherche
+Des projets qui apportent de **vraies compétences**, une **vraie valeur**, ou un **vrai défi technique**.
+Mes intérêts spécifiques incluent :
+
+- la souveraineté numérique & l'auto-hébergement
+- une infrastructure légère mais robuste
+- la sécurité des données
+- les systèmes distribués (LoRa, ESP32…)
+- l'IA locale (inférence hors ligne)
+
+---
+
+Si vous voulez suivre les avancées de Gauzian, contribuer, ou juste parler tech, n'hésitez pas à me contacter 🚀
