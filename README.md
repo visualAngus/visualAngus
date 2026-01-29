@@ -62,7 +62,7 @@ Je le construis parce que **les alternatives actuelles sont inacceptables** :
 **Infrastructure :**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24+A1C1?logo=traefikproxy&logoColor=white) 
 
 **Crypto :**
 RSA-4096 · AES-256-GCM · Argon2id · PBKDF2 (310k iterations)
