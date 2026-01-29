@@ -103,8 +103,7 @@ Si vous avez de l'expérience en architectures distribuées, **parlons-en** ! �
 
 ## 📊 Stats & Activité
 
-- 🔥 **Commits actifs** sur Gauzian depuis janvier 2026
-- 📈 **Journal de développement détaillé** : `DEVELOPMENT_LOG.md` (640+ lignes)
+- 🔥 **Commits actifs** sur Gauzian depuis Novembre 2025
 - 🛡️ **Tests de sécurité réguliers** : SQLMap, audits OWASP
 - 🌍 **Déploiement production** : VPS K8s en France
 
